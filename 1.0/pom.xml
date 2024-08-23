@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkvug</artifactId>
-  <version>1.1</version>
+  <version>1.0</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -23,4 +23,16 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>com.vungle</groupId>
+      <artifactId>vungle-ads</artifactId>
+      <version>7.1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.jiuzehk</groupId>
+      <artifactId>ntkifs</artifactId>
+      <version>1.2</version>
+    </dependency>
+  </dependencies>
 </project>
