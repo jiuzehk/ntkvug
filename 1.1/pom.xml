@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkvug</artifactId>
-  <version>1.3</version>
+  <version>1.1</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
